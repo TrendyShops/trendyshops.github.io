@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 #DaumWebMasterTool:ec1e34abd8ca68efd0f9b99517a6efabf23471e292c6b1a0c7a278a063108147:zVFEcv6v/isod8pIh1hMHQ==
-Sitemap: https://.github.io/sitemap.xml
+Sitemap: https://trendyshops.p-e.kr/sitemap.xml
